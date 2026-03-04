@@ -1,0 +1,28 @@
+STUDENT PERFORMANCE REPORT
+
+1) Average by subject:
+subject  avg_total
+   Math       34.2
+Physics       42.0
+
+2) Average by group:
+ group  avg_total
+SE-201       35.0
+SE-202       38.6
+
+3) Low performers:
+ student_id    name  group subject  midterm  final  attendance  total
+          4   Timur SE-202    Math       20     25          60   23.0
+          2  Nurbol SE-201    Math       25     30          70   28.0
+          5    Dias SE-201 Physics       30     40          85   36.0
+          1 Aruzhan SE-201    Math       35     45          90   41.0
+          3   Aliya SE-202    Math       40     48          95   44.8
+          6   Amina SE-202 Physics       45     50          98   48.0
+
+4) Top students:
+ student_id    name  group subject  midterm  final  attendance  total
+          6   Amina SE-202 Physics       45     50          98   48.0
+          3   Aliya SE-202    Math       40     48          95   44.8
+          1 Aruzhan SE-201    Math       35     45          90   41.0
+          5    Dias SE-201 Physics       30     40          85   36.0
+          2  Nurbol SE-201    Math       25     30          70   28.0
